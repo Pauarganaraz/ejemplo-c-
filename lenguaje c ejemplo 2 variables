@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main (){
+	
+	int numeroEntero = 2;
+	int numeroEntero2 = 5;
+
+
+printf ("imprimir numero entero2 %i - numero entero %i" , numeroEntero2, numeroEntero); 
+
+return 0; 
+
+}
